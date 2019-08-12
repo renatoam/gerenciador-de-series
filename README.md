@@ -1,3 +1,11 @@
+Projeto de um Gerenciador de séries criado no Hands-On ReactJS do DevPleno, com o Tulio Faria. 
+
+Boa didática e conteúdo atualizado. A partir daqui, já dá pra criar algumas aplicações só com os conceitos aprendidos no Hands-On. 
+
+Para rodar o projeto, deve-se inicializar o servidor com "yarn/npm start-server", que internamente roda o comando "node .\node_modules\minhas-series\index.js", e depois inicializar o projeto com "yarn/npm start-react", que roda o start padrão do create-react-app, que já traz o ambiente configurado para facilitar no desenvolvimento de aplicações simples. 
+
+Abaixo, o leia-me padrão do CRA (Create React App)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
